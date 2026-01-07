@@ -1,27 +1,39 @@
 # Hi 👋, I'm Maridi Leela Akash
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</p>
+
 ## 🚀 About Me  
-I’m a DevOps Engineer & Full-Stack Developer passionate about building automated CI/CD pipelines, containerized applications, and cloud-ready deployments.
+I’m a DevOps Engineer & Full-Stack Developer with a growing focus on **Cyber Security** and **Blockchain Technology**, passionate about building secure, automated, and cloud-ready systems.
 
 - 💻 Skilled in **Docker**, **Jenkins**, **GitHub Actions**, **Ansible**, **AWS**, and **CI/CD automation**  
 - 🌐 Comfortable building **full-stack web applications** with **Node.js / Express**, **React.js**, **HTML/CSS/JS**  
 - ⚙️ DevOps enthusiast — love **cloud deployment**, **infrastructure-as-code**, and **scalable web systems**
+- 🔐 Exploring **Cyber Security** — secure application deployment, Linux security, networking basics, and DevSecOps practices  
+- ⛓️ Learning **Blockchain Technology** — understanding decentralized systems, smart contracts, and secure transaction models  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**DevOps & Cloud**  
+### **DevOps & Cloud**  
 Docker · Jenkins · GitHub Actions · Ansible · AWS (EC2, IAM, S3) · CI/CD Pipelines · Containerized Deployment
 
-**Backend**  
+### **Backend**  
 Java · Node.js · Express.js
 
-**Frontend**  
+### **Frontend**  
 React.js · HTML · CSS · JavaScript
 
-**Other Tools**  
-Git · Linux · Shell Scripting · VS Code · Postman · Basic DB (MongoDB / SQL)  
+### **Cyber Security (Learning & Practicing)**  
+Linux Security Basics · Networking Fundamentals · Application Security Basics · DevSecOps Concepts · Secure CI/CD Practices
+
+### **Blockchain (Learning)**  
+Blockchain Fundamentals · Smart Contract Basics · Decentralized Applications (DApps) · Cryptography Basics
+
+### **Other Tools**  
+Git · Linux · Shell Scripting · VS Code · Postman · Basic DB (MongoDB / SQL)
 
 ---
 
@@ -41,7 +53,9 @@ Automated deployment of Spring Boot + React app using Jenkins pipelines — demo
 
 ### 🔹 ERP Web Application (Frontend + Backend)  
 **Repositories:** `ERP-Frontend`, `ERP-Backend`  
-Full-stack ERP application built using modern web technologies. Good for demonstrating web-app development + integration skills.
+Full-stack ERP application built using modern web technologies.
+
+*(Upcoming projects in Cyber Security & Blockchain will be added soon 🚀)*
 
 ---
 
@@ -58,4 +72,4 @@ Full-stack ERP application built using modern web technologies. Good for demonst
 
 ---
 
-*Open to internship / full-time opportunities in DevOps, Cloud, Full-Stack Development and Automation.*
+*Open to internship / full-time opportunities in **DevOps, Cloud, Cyber Security, Blockchain, and Full-Stack Development**.*

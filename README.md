@@ -1,7 +1,7 @@
 # Hi 👋, I'm Maridi Leela Akash
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NsM3dxdDBsNGQwdTFzeXVncnh1Y2x2ZnV2a3V4cnVuMGptNmlxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="350"/>
 </p>
 
 ## 🚀 About Me  

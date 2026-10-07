@@ -18,11 +18,8 @@ Final-year CSE student at KL University (2027), building secure, production-styl
 ### 🏦 [Online Banking System](https://github.com/Leela-Akash/OnlineBankingSystem-SDP) · [Live Demo](ADD_LIVE_LINK)
 Spring Boot + React banking app with JWT role-based security (Customer/Staff/Admin), BCrypt hashing, idempotent fund transfers with pessimistic locking, Flyway migrations, Testcontainers tests, and CI via GitHub Actions.
 
-### 📄 [ResumeAI Scanner](https://github.com/Leela-Akash/resumeai-scanner) · [Live Demo](ADD_LIVE_LINK)
-ADD ONE LINE: what it does and the stack.
-
 ### 🌆 [CivicSense AI](https://github.com/Leela-Akash/google-civicsense-ai)
-ADD ONE LINE: what it does and the stack.
+Smart governance platform with multi-language support that lets citizens raise civic complaints and helps authorities track and resolve them. Built with ADD_STACK.
 
 ### ☁️ [Docker + AWS Full-Stack Deployment](https://github.com/Leela-Akash/DOCKER-AWS-FULLSTACK)
 Containerized full-stack app on AWS EC2 with Docker, Nginx, and a GitHub Actions pipeline.
